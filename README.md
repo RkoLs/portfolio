@@ -31,7 +31,7 @@ O projeto está organizado em diferentes arquivos e diretórios:
 
 ## Como Visualizar
 
-Para visualizar meu site online, acesse o link: [Portfólio](https://seu-link-de-portfolio-aqui)
+Para visualizar meu site online, acesse o link: [Portfólio](https://portfolio-ruby-nine-91.vercel.app/index.html)
 
 ## Preview
 
