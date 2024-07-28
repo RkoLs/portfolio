@@ -43,4 +43,4 @@ Para visualizar meu site online, acesse o link: [Portfólio](https://portfolio-r
 
 ---
 
-_Powered by **_RkoLs_**_
+_Powered by **_RkoLs_**_.
